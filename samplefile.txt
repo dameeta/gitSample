@@ -1,0 +1,43 @@
+tools
+Jira=stories
+flow of the execution
+sdlc
+code development
+Maven=dependency Management,build the application
+CI,CD=Continuous Integration and Continuous Deployment
+
+Library Management system Case study
+-----------------------
+Users
+Register-
+login
+Welcome xyz
+
+User want to borrow
+Add Books
+List Books
+Update Information of books
+Delete the books
+
+Books,
+Management of books:---
+Add 
+List
+Edit Book details
+=================================
+
+Railway Ticket Reservation System
+Registration/login
+
+check PNR
+Search Train
+check availability of the seats from to and date of travel
+Book the tickets
+Booked history
+Cancel the tickets.
+Tatkal options
+Payment Gateway
+
+
+
+
